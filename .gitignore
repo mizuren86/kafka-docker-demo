@@ -1,0 +1,21 @@
+# Maven target 目錄（編譯後產物）
+target/
+
+# IDE 設定檔
+.idea/
+*.iml
+*.class
+
+# 日誌或暫存檔
+*.log
+
+# 系統垃圾檔
+.DS_Store
+Thumbs.db
+
+# VSCode 設定檔
+.vscode/
+
+# Kafka 可能產生的資料資料夾（可選）
+kafka-logs/
+zookeeper-data/
